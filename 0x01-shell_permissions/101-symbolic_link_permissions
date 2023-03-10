@@ -1,0 +1,2 @@
+#!/bin/bash
+chown -rh vincet:staff _hello
